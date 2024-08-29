@@ -3,8 +3,12 @@ h1{
 }
 .completed{
     text-decoration: line-through;
-    color: gray;
+    color: green;
 }
 .not{
     text-decoration: underline;
+}
+
+form label{
+    display: block;
 }
